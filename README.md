@@ -46,6 +46,6 @@ My work focuses on clean code, structured data, and practical tools that solve r
 - **Name:** Abdulftah Fakhri  
 - **Location:** Ajdabiya, Libya  
 - **Email:** *(Abdalfatahabdallah@gmail.com)*  
-- **GitHub:** *(your GitHub link)*  
+- **GitHub:** *((https://github.com/AbdulftahMohammed))*  
 
 ---
